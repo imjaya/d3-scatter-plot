@@ -16,4 +16,5 @@ The purpose of this homework was to learn some basic grammar and functionalities
 Navigate to the project folder and run the following commands: 
 
 pip install simple-http-server
+
 python -m SimpleHTTPServer 8080
