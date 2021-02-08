@@ -1,6 +1,7 @@
 # d3-scatter-plot
 A simple scatter plot designed in D3.js
 
+Live firebase deployement of the project:  https://simple-scatter-plot-d3.web.app/
 
 The purpose of this homework was to learn some basic grammar and functionalities contained in D3.js:
 
